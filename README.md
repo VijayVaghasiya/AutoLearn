@@ -3,59 +3,59 @@
 This is my personal collection of all papers related to advances in Automotive Industry in terms of Safety and Standardisation.
 
 ## Automotive Systems
-* Accident Recorder
-* Active Aerodynamics
-* Active Cabin Noise Suppression
-* Active Exhaust Noise Suppression
-* Active Suspension
-* Active Vibration Control
-* Active Yaw Control
-* Adaptive Cruise Control
-* Adaptive Front Lighting
-* Airbag Deployment
-* Antilock Braking
-* Auto-Dimming Mirrors
-* Autonomous Emergency Braking
-* Battery Management
-* Blind Spot Detection
-* Cabin Environment Controls
-* Communication Systems
-* Convertible Top Control
-* Cylinder Deactivation
-* DSRC
-* Driver Alertness Monitoring
-* Electronic Power Steering
-* Electronic Seat Control
-* Electronic Stability Control
-* Electronic Throttle Control
-* Electronic Toll Collection
-* Electronic Valve Timing
-* Engine Control
-* Entertainment System
-* Event Data Recorder
-* Head-Up Displays
-* Hill Hold Control
-* Idle Stop-Start
-* Instrument Cluster
-* Intelligent Turn Signals
-* Interior Lighting
-* Lane Departure Warning
-* Lane Keeping Assist
-* Navigation
-* Night Vision Systems
-* On-Board Diagnostics
-* Parental Controls
-* Parking Systems
-* Precrash Safety
-* Rear-view Camera
-* Regenerative Braking
-* Remote Keyless Entry
-* Security Systems
-* Tire Pressure Monitoring
-* Traction Control
-* Traffic Sign Recognition
-* Transmission Control
-* Windshield Wiper Control
+* [Accident Recorder](https://cecas.clemson.edu/cvel/auto/systems/accident_recorder.html)
+* [Active Aerodynamics](https://cecas.clemson.edu/cvel/auto/systems/active_aerodynamics.html)
+* [Active Cabin Noise Suppression](https://cecas.clemson.edu/cvel/auto/systems/active_cabin_noise_suppression.html)
+* [Active Exhaust Noise Suppression](https://cecas.clemson.edu/cvel/auto/systems/active_exhaust_noise_cancellation.html)
+* [Active Suspension](https://cecas.clemson.edu/cvel/auto/systems/active_suspension.html)
+* [Active Vibration Control](https://cecas.clemson.edu/cvel/auto/systems/active_vibration_control.html)
+* [Active Yaw Control](https://cecas.clemson.edu/cvel/auto/systems/yaw-control.html)
+* [Adaptive Cruise Control](https://cecas.clemson.edu/cvel/auto/systems/acc.html)
+* [Adaptive Front Lighting](https://cecas.clemson.edu/cvel/auto/systems/adaptive_front_lighting.html)
+* [Airbag Deployment](https://cecas.clemson.edu/cvel/auto/systems/airbag_deployment.html)
+* [Antilock Braking](https://cecas.clemson.edu/cvel/auto/systems/braking.html)
+* [Auto-Dimming Mirrors](https://cecas.clemson.edu/cvel/auto/systems/auto-dimming-mirror.html)
+* [Autonomous Emergency Braking](https://cecas.clemson.edu/cvel/auto/systems/auto-brake.html)
+* [Battery Management](https://cecas.clemson.edu/cvel/auto/systems/battery_management.html)
+* [Blind Spot Detection](https://cecas.clemson.edu/cvel/auto/systems/blind-spot-detection.html)
+* [Cabin Environment Controls](https://cecas.clemson.edu/cvel/auto/systems/cabin-env.html)
+* [Communication Systems](https://cecas.clemson.edu/cvel/auto/systems/communications.html)
+* [Convertible Top Control](https://cecas.clemson.edu/cvel/auto/systems/convertible_top_control.html)
+* [Cylinder Deactivation](https://cecas.clemson.edu/cvel/auto/systems/cylinder-deactivation.html)
+* [DSRC](https://cecas.clemson.edu/cvel/auto/systems/DSRC.html)
+* [Driver Alertness Monitoring](https://cecas.clemson.edu/cvel/auto/systems/driver_alertness.html)
+* [Electronic Power Steering](https://cecas.clemson.edu/cvel/auto/systems/ep_steering.html)
+* [Electronic Seat Control](https://cecas.clemson.edu/cvel/auto/systems/seat_position_control.html)
+* [Electronic Stability Control](https://cecas.clemson.edu/cvel/auto/systems/stability_control.html)
+* [Electronic Throttle Control](https://cecas.clemson.edu/cvel/auto/systems/throttle_control.html)
+* [Electronic Toll Collection](https://cecas.clemson.edu/cvel/auto/systems/electronic_toll_collection.html)
+* [Electronic Valve Timing](https://cecas.clemson.edu/cvel/auto/systems/valve-timing.html)
+* [Engine Control](https://cecas.clemson.edu/cvel/auto/systems/engine_control.html)
+* [Entertainment System](https://cecas.clemson.edu/cvel/auto/systems/entertainment.html)
+* [Event Data Recorder](https://cecas.clemson.edu/cvel/auto/systems/event_data_recorder.html)
+* [Head-Up Displays](https://cecas.clemson.edu/cvel/auto/systems/head-up_displays.html)
+* [Hill Hold Control](https://cecas.clemson.edu/cvel/auto/systems/hill-hold.html)
+* [Idle Stop-Start](https://cecas.clemson.edu/cvel/auto/systems/autostart-stop.html)
+* [Instrument Cluster](https://cecas.clemson.edu/cvel/auto/systems/instrument_cluster.html)
+* [Intelligent Turn Signals](https://cecas.clemson.edu/cvel/auto/systems/turn_signals.html)
+* [Interior Lighting](https://cecas.clemson.edu/cvel/auto/systems/interior_lighting.html)
+* [Lane Departure Warning](https://cecas.clemson.edu/cvel/auto/systems/lane-departure-warning.html)
+* [Lane Keeping Assist](https://cecas.clemson.edu/cvel/auto/systems/lane-keeping-assist.html)
+* [Navigation](https://cecas.clemson.edu/cvel/auto/systems/navigation.html)
+* [Night Vision Systems](https://cecas.clemson.edu/cvel/auto/systems/night-vision.html)
+* [On-Board Diagnostics](https://cecas.clemson.edu/cvel/auto/systems/OBD.html)
+* [Parental Controls](https://cecas.clemson.edu/cvel/auto/systems/parental_controls.html)
+* [Parking Systems](https://cecas.clemson.edu/cvel/auto/systems/parking.html)
+* [Precrash Safety](https://cecas.clemson.edu/cvel/auto/systems/precrash-safety.html)
+* [Rear-view Camera](https://cecas.clemson.edu/cvel/auto/systems/rear-view.html)
+* [Regenerative Braking](https://cecas.clemson.edu/cvel/auto/systems/regenerative_braking.html)
+* [Remote Keyless Entry](https://cecas.clemson.edu/cvel/auto/systems/remote_keyless_entry.html)
+* [Security Systems](https://cecas.clemson.edu/cvel/auto/systems/security_systems.html)
+* [Tire Pressure Monitoring](https://cecas.clemson.edu/cvel/auto/systems/tpms.html)
+* [Traction Control](https://cecas.clemson.edu/cvel/auto/systems/traction_control.html)
+* [Traffic Sign Recognition](https://cecas.clemson.edu/cvel/auto/systems/sign-recognition.html)
+* [Transmission Control](https://cecas.clemson.edu/cvel/auto/systems/transmission_control.html)
+* [Windshield Wiper Control](https://cecas.clemson.edu/cvel/auto/systems/wiper_control.html)
 
 
 ## Functional Safety
