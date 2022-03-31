@@ -1,6 +1,6 @@
 # AutoLearn
 
-This is my personal collection of all papers related to advances in Automotive Industry in terms of Safety and Standardisation.
+This is my personal collection of articles and papers related to Automotive Systems
 
 ## Automotive Systems
 * [Accident Recorder](https://cecas.clemson.edu/cvel/auto/systems/accident_recorder.html)
