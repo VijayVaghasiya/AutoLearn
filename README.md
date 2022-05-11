@@ -63,7 +63,7 @@ This is my personal collection of articles and papers related to Automotive Syst
 
 * Safety Tactics for Software Architecture Design [[citeseerx](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.2420&rep=rep1&type=pdf)]
 * A Functional Safety Assessment Method for Cooperative Automotive Architecture ? [[arXiv](https://arxiv.org/pdf/2104.13729.pdf)]
-
+* Markov Chain-based Realiability Analysis for Automotive Fail-Operational Systems [[jstor](https://www.jstor.org/stable/26169319?seq=2)][[Extract]()]
 
 ## ISO26262:2018
 
